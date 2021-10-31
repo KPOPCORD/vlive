@@ -18,7 +18,7 @@ contentSelector = "div.info_date span.date"
 imageSelector = "div.thumb_area img"
 waitUntil = "networkidle"
 
-[lightStick]
+[lightstick]
 title = "V LIVE ─ STORE ─ LIGHTSTICK"
 url = "https://www.vlive.tv/vstore/lightStick"
 entrySelector = "ul.store_lightstick_list li"
