@@ -17,3 +17,13 @@ linkSelector = "a.store_package_card"
 contentSelector = "div.info_date span.date"
 imageSelector = "div.thumb_area img"
 waitUntil = "networkidle"
+
+[lightStick]
+title = "V LIVE ─ STORE ─ LIGHTSTICK"
+url = "https://www.vlive.tv/vstore/lightStick"
+entrySelector = "ul.store_lightstick_list li"
+titleSelector = "div.text_area strong.title"
+linkSelector = "a.lightstick_link"
+contentSelector = "div.text_area div.text"
+imageSelector = "div.img_area img"
+waitUntil = "networkidle"
